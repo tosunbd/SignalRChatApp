@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "HubServer\\HubServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorChatApp\\BlazorChatApp\\BlazorChatApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

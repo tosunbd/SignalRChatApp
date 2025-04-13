@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "m+S1iZZn2lZrfHPNDrO8koK6/FK2lsV9y8Hw9qOZTYI=",
+  "Source": "HubServer",
+  "BasePath": "_content/HubServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
