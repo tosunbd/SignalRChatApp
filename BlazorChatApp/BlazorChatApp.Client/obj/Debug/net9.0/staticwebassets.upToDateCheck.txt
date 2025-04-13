@@ -1,4 +1,0 @@
-F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp.Client\wwwroot\appsettings.Development.json
-F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp.Client\wwwroot\appsettings.json
-wwwroot\appsettings.Development.json
-wwwroot\appsettings.json
