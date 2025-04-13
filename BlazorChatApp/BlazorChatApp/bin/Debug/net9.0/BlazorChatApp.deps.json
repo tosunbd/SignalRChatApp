@@ -380,11 +380,20 @@
       "System.Threading.Channels/9.0.4": {},
       "BlazorChatApp.Client/1.0.0": {
         "dependencies": {
+          "ChatContracts": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "9.0.4",
           "Microsoft.AspNetCore.SignalR.Client": "9.0.4"
         },
         "runtime": {
           "BlazorChatApp.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ChatContracts/1.0.0": {
+        "runtime": {
+          "ChatContracts.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -637,6 +646,11 @@
       "hashPath": "system.threading.channels.9.0.4.nupkg.sha512"
     },
     "BlazorChatApp.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatContracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -8,3 +8,5 @@ F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\Blazo
 F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp.Client\obj\Debug\net9.0\staticwebassets.build.json
 F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp.Client\obj\Debug\net9.0\staticwebassets.build.json
 F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp.Client\obj\Debug\net9.0\staticwebassets.build.json

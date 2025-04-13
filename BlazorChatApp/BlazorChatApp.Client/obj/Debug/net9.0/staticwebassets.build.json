@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ve7rIOzB+Vq5KGaaycM231p9yb6o1+fQx/jCWka5TcE=",
+  "Hash": "Q9lj98kWmlev1+aiACSSdAS18b+Nf9fw4UyMsmeiw2k=",
   "Source": "BlazorChatApp.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "rjnrlhpge8",
-      "Integrity": "91jd8sDnPnV/2kN4H31huiX8ST1URhiQQXzMZ/16a+c=",
+      "Fingerprint": "v2k7cbb3sn",
+      "Integrity": "Z2mWd2UXq2hhdD5WNzz8sM+kkeVkQALxDs00NsVdv3A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "bcdqeiwuue",
-      "Integrity": "9WNj/L171tr/IdYIDCtGbcYBtm9iKW1Gr27qDkQZqxg=",
+      "Fingerprint": "iinfrnwa4k",
+      "Integrity": "NqRXphA6HrmceLuRXnaqN7xhZT7r3K0D7LCPiwDNvp0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\BlazorChatApp.Client.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "4qfvet6hqt",
-      "Integrity": "XGOMcjuLZSoiKTAICYIkL06PGCfdfKluG6wcsoaQ5Bg=",
+      "Fingerprint": "ep4t2yqyta",
+      "Integrity": "EudCfhjcuuk44BOcZt4F/M0diN5tvWt1caIpDr/dOgM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\webcil\\BlazorChatApp.Client.wasm"
@@ -6842,7 +6842,7 @@
       "OriginalItemSpec": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Transactions.Local.wasm"
     },
     {
-      "Identity": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\lr0dssc36y-rjnrlhpge8.gz",
+      "Identity": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\lr0dssc36y-v2k7cbb3sn.gz",
       "SourceId": "BlazorChatApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -6856,8 +6856,8 @@
       "RelatedAsset": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "34yo8hrdtv",
-      "Integrity": "TWFDxaP6n9PQCcRrTrWbo7/VG15M9AB0dmzd8VTaCvs=",
+      "Fingerprint": "djtd9flbey",
+      "Integrity": "N9TQ/TQfFmaFxfEBspPPOjzERMxwYyhItylTSvi/3vY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7052,12 +7052,12 @@
       "OriginalItemSpec": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.wasm"
     },
     {
-      "Identity": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-4qfvet6hqt.gz",
+      "Identity": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-ep4t2yqyta.gz",
       "SourceId": "BlazorChatApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorChatApp.Client#[.{fingerprint=4qfvet6hqt}]!.wasm.gz",
+      "RelativePath": "_framework/BlazorChatApp.Client#[.{fingerprint=ep4t2yqyta}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7066,8 +7066,8 @@
       "RelatedAsset": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorChatApp.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o17jnngjme",
-      "Integrity": "lGIypT8pfunH/g3eFmVXfMRjiXkwCP72Irdh7BX1IW0=",
+      "Fingerprint": "s76ves9drz",
+      "Integrity": "yEDR5FoIU6azoaU0/KZyW3F8w6L59/fDl/TOmIStgcI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorChatApp.Client.wasm"
@@ -7724,12 +7724,12 @@
       "OriginalItemSpec": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "Identity": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-bcdqeiwuue.gz",
+      "Identity": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-iinfrnwa4k.gz",
       "SourceId": "BlazorChatApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorChatApp.Client#[.{fingerprint=bcdqeiwuue}]!.pdb.gz",
+      "RelativePath": "_framework/BlazorChatApp.Client#[.{fingerprint=iinfrnwa4k}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7738,8 +7738,8 @@
       "RelatedAsset": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorChatApp.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "unxi8c0esh",
-      "Integrity": "6rKx874SywF5mI6DaAhYqBB1x01OEv0791zByu1hxDk=",
+      "Fingerprint": "t53oitxvq3",
+      "Integrity": "/yOM41ni5ciqvquZoERRjMPndY7A/0Vlc0MOL5UJQ/4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorChatApp.Client.pdb"
@@ -9151,7 +9151,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"91jd8sDnPnV/2kN4H31huiX8ST1URhiQQXzMZ/16a+c=\""
+          "Value": "\"Z2mWd2UXq2hhdD5WNzz8sM+kkeVkQALxDs00NsVdv3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z2mWd2UXq2hhdD5WNzz8sM+kkeVkQALxDs00NsVdv3A="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\lr0dssc36y-v2k7cbb3sn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000077214115"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12950"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N9TQ/TQfFmaFxfEBspPPOjzERMxwYyhItylTSvi/3vY=\""
         },
         {
           "Name": "Last-Modified",
@@ -9160,45 +9199,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-91jd8sDnPnV/2kN4H31huiX8ST1URhiQQXzMZ/16a+c="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\lr0dssc36y-rjnrlhpge8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000077202193"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12952"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TWFDxaP6n9PQCcRrTrWbo7/VG15M9AB0dmzd8VTaCvs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:53:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9214,19 +9214,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"91jd8sDnPnV/2kN4H31huiX8ST1URhiQQXzMZ/16a+c=\""
+          "Value": "W/\"Z2mWd2UXq2hhdD5WNzz8sM+kkeVkQALxDs00NsVdv3A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-91jd8sDnPnV/2kN4H31huiX8ST1URhiQQXzMZ/16a+c="
+          "Value": "sha256-Z2mWd2UXq2hhdD5WNzz8sM+kkeVkQALxDs00NsVdv3A="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\lr0dssc36y-rjnrlhpge8.gz",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\lr0dssc36y-v2k7cbb3sn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9235,7 +9235,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12952"
+          "Value": "12950"
         },
         {
           "Name": "Content-Type",
@@ -9243,11 +9243,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TWFDxaP6n9PQCcRrTrWbo7/VG15M9AB0dmzd8VTaCvs=\""
+          "Value": "\"N9TQ/TQfFmaFxfEBspPPOjzERMxwYyhItylTSvi/3vY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:53:46 GMT"
+          "Value": "Sun, 13 Apr 2025 09:54:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9265,7 +9265,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TWFDxaP6n9PQCcRrTrWbo7/VG15M9AB0dmzd8VTaCvs="
+          "Value": "sha256-N9TQ/TQfFmaFxfEBspPPOjzERMxwYyhItylTSvi/3vY="
         }
       ]
     },
@@ -9407,7 +9407,7 @@
       ]
     },
     {
-      "Route": "_framework/BlazorChatApp.Client.4qfvet6hqt.wasm",
+      "Route": "_framework/BlazorChatApp.Client.ep4t2yqyta.wasm",
       "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorChatApp.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9417,7 +9417,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19221"
+          "Value": "19733"
         },
         {
           "Name": "Content-Type",
@@ -9425,11 +9425,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XGOMcjuLZSoiKTAICYIkL06PGCfdfKluG6wcsoaQ5Bg=\""
+          "Value": "\"EudCfhjcuuk44BOcZt4F/M0diN5tvWt1caIpDr/dOgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:51 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9439,7 +9439,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4qfvet6hqt"
+          "Value": "ep4t2yqyta"
         },
         {
           "Name": "label",
@@ -9447,18 +9447,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XGOMcjuLZSoiKTAICYIkL06PGCfdfKluG6wcsoaQ5Bg="
+          "Value": "sha256-EudCfhjcuuk44BOcZt4F/M0diN5tvWt1caIpDr/dOgM="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorChatApp.Client.4qfvet6hqt.wasm",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-4qfvet6hqt.gz",
+      "Route": "_framework/BlazorChatApp.Client.ep4t2yqyta.wasm",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-ep4t2yqyta.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000121758188"
+          "Quality": "0.000120279047"
         }
       ],
       "ResponseHeaders": [
@@ -9468,15 +9468,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8212"
+          "Value": "8313"
         },
         {
           "Name": "ETag",
-          "Value": "\"lGIypT8pfunH/g3eFmVXfMRjiXkwCP72Irdh7BX1IW0=\""
+          "Value": "\"yEDR5FoIU6azoaU0/KZyW3F8w6L59/fDl/TOmIStgcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:52 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9496,13 +9496,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XGOMcjuLZSoiKTAICYIkL06PGCfdfKluG6wcsoaQ5Bg=\""
+          "Value": "W/\"EudCfhjcuuk44BOcZt4F/M0diN5tvWt1caIpDr/dOgM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4qfvet6hqt"
+          "Value": "ep4t2yqyta"
         },
         {
           "Name": "label",
@@ -9510,13 +9510,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XGOMcjuLZSoiKTAICYIkL06PGCfdfKluG6wcsoaQ5Bg="
+          "Value": "sha256-EudCfhjcuuk44BOcZt4F/M0diN5tvWt1caIpDr/dOgM="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorChatApp.Client.4qfvet6hqt.wasm.gz",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-4qfvet6hqt.gz",
+      "Route": "_framework/BlazorChatApp.Client.ep4t2yqyta.wasm.gz",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-ep4t2yqyta.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9525,7 +9525,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8212"
+          "Value": "8313"
         },
         {
           "Name": "Content-Type",
@@ -9533,11 +9533,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lGIypT8pfunH/g3eFmVXfMRjiXkwCP72Irdh7BX1IW0=\""
+          "Value": "\"yEDR5FoIU6azoaU0/KZyW3F8w6L59/fDl/TOmIStgcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:52 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9555,7 +9555,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4qfvet6hqt"
+          "Value": "ep4t2yqyta"
         },
         {
           "Name": "label",
@@ -9563,12 +9563,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lGIypT8pfunH/g3eFmVXfMRjiXkwCP72Irdh7BX1IW0="
+          "Value": "sha256-yEDR5FoIU6azoaU0/KZyW3F8w6L59/fDl/TOmIStgcI="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorChatApp.Client.bcdqeiwuue.pdb",
+      "Route": "_framework/BlazorChatApp.Client.iinfrnwa4k.pdb",
       "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorChatApp.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9578,7 +9578,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23972"
+          "Value": "24184"
         },
         {
           "Name": "Content-Type",
@@ -9586,11 +9586,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9WNj/L171tr/IdYIDCtGbcYBtm9iKW1Gr27qDkQZqxg=\""
+          "Value": "\"NqRXphA6HrmceLuRXnaqN7xhZT7r3K0D7LCPiwDNvp0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:51 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9600,7 +9600,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bcdqeiwuue"
+          "Value": "iinfrnwa4k"
         },
         {
           "Name": "label",
@@ -9608,18 +9608,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9WNj/L171tr/IdYIDCtGbcYBtm9iKW1Gr27qDkQZqxg="
+          "Value": "sha256-NqRXphA6HrmceLuRXnaqN7xhZT7r3K0D7LCPiwDNvp0="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorChatApp.Client.bcdqeiwuue.pdb",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-bcdqeiwuue.gz",
+      "Route": "_framework/BlazorChatApp.Client.iinfrnwa4k.pdb",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-iinfrnwa4k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058775126"
+          "Quality": "0.000058264872"
         }
       ],
       "ResponseHeaders": [
@@ -9629,15 +9629,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17013"
+          "Value": "17162"
         },
         {
           "Name": "ETag",
-          "Value": "\"6rKx874SywF5mI6DaAhYqBB1x01OEv0791zByu1hxDk=\""
+          "Value": "\"/yOM41ni5ciqvquZoERRjMPndY7A/0Vlc0MOL5UJQ/4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:52 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9657,13 +9657,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9WNj/L171tr/IdYIDCtGbcYBtm9iKW1Gr27qDkQZqxg=\""
+          "Value": "W/\"NqRXphA6HrmceLuRXnaqN7xhZT7r3K0D7LCPiwDNvp0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bcdqeiwuue"
+          "Value": "iinfrnwa4k"
         },
         {
           "Name": "label",
@@ -9671,13 +9671,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9WNj/L171tr/IdYIDCtGbcYBtm9iKW1Gr27qDkQZqxg="
+          "Value": "sha256-NqRXphA6HrmceLuRXnaqN7xhZT7r3K0D7LCPiwDNvp0="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorChatApp.Client.bcdqeiwuue.pdb.gz",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-bcdqeiwuue.gz",
+      "Route": "_framework/BlazorChatApp.Client.iinfrnwa4k.pdb.gz",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-iinfrnwa4k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9686,7 +9686,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17013"
+          "Value": "17162"
         },
         {
           "Name": "Content-Type",
@@ -9694,11 +9694,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6rKx874SywF5mI6DaAhYqBB1x01OEv0791zByu1hxDk=\""
+          "Value": "\"/yOM41ni5ciqvquZoERRjMPndY7A/0Vlc0MOL5UJQ/4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:52 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9716,7 +9716,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bcdqeiwuue"
+          "Value": "iinfrnwa4k"
         },
         {
           "Name": "label",
@@ -9724,7 +9724,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6rKx874SywF5mI6DaAhYqBB1x01OEv0791zByu1hxDk="
+          "Value": "sha256-/yOM41ni5ciqvquZoERRjMPndY7A/0Vlc0MOL5UJQ/4="
         }
       ]
     },
@@ -9739,7 +9739,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23972"
+          "Value": "24184"
         },
         {
           "Name": "Content-Type",
@@ -9747,11 +9747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9WNj/L171tr/IdYIDCtGbcYBtm9iKW1Gr27qDkQZqxg=\""
+          "Value": "\"NqRXphA6HrmceLuRXnaqN7xhZT7r3K0D7LCPiwDNvp0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:51 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9761,18 +9761,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9WNj/L171tr/IdYIDCtGbcYBtm9iKW1Gr27qDkQZqxg="
+          "Value": "sha256-NqRXphA6HrmceLuRXnaqN7xhZT7r3K0D7LCPiwDNvp0="
         }
       ]
     },
     {
       "Route": "_framework/BlazorChatApp.Client.pdb",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-bcdqeiwuue.gz",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-iinfrnwa4k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058775126"
+          "Quality": "0.000058264872"
         }
       ],
       "ResponseHeaders": [
@@ -9782,15 +9782,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17013"
+          "Value": "17162"
         },
         {
           "Name": "ETag",
-          "Value": "\"6rKx874SywF5mI6DaAhYqBB1x01OEv0791zByu1hxDk=\""
+          "Value": "\"/yOM41ni5ciqvquZoERRjMPndY7A/0Vlc0MOL5UJQ/4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:52 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9810,19 +9810,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9WNj/L171tr/IdYIDCtGbcYBtm9iKW1Gr27qDkQZqxg=\""
+          "Value": "W/\"NqRXphA6HrmceLuRXnaqN7xhZT7r3K0D7LCPiwDNvp0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9WNj/L171tr/IdYIDCtGbcYBtm9iKW1Gr27qDkQZqxg="
+          "Value": "sha256-NqRXphA6HrmceLuRXnaqN7xhZT7r3K0D7LCPiwDNvp0="
         }
       ]
     },
     {
       "Route": "_framework/BlazorChatApp.Client.pdb.gz",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-bcdqeiwuue.gz",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\rwa3kx1pm5-iinfrnwa4k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9831,7 +9831,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17013"
+          "Value": "17162"
         },
         {
           "Name": "Content-Type",
@@ -9839,11 +9839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6rKx874SywF5mI6DaAhYqBB1x01OEv0791zByu1hxDk=\""
+          "Value": "\"/yOM41ni5ciqvquZoERRjMPndY7A/0Vlc0MOL5UJQ/4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:52 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9861,7 +9861,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6rKx874SywF5mI6DaAhYqBB1x01OEv0791zByu1hxDk="
+          "Value": "sha256-/yOM41ni5ciqvquZoERRjMPndY7A/0Vlc0MOL5UJQ/4="
         }
       ]
     },
@@ -9876,7 +9876,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19221"
+          "Value": "19733"
         },
         {
           "Name": "Content-Type",
@@ -9884,11 +9884,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XGOMcjuLZSoiKTAICYIkL06PGCfdfKluG6wcsoaQ5Bg=\""
+          "Value": "\"EudCfhjcuuk44BOcZt4F/M0diN5tvWt1caIpDr/dOgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:51 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9898,18 +9898,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XGOMcjuLZSoiKTAICYIkL06PGCfdfKluG6wcsoaQ5Bg="
+          "Value": "sha256-EudCfhjcuuk44BOcZt4F/M0diN5tvWt1caIpDr/dOgM="
         }
       ]
     },
     {
       "Route": "_framework/BlazorChatApp.Client.wasm",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-4qfvet6hqt.gz",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-ep4t2yqyta.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000121758188"
+          "Quality": "0.000120279047"
         }
       ],
       "ResponseHeaders": [
@@ -9919,15 +9919,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8212"
+          "Value": "8313"
         },
         {
           "Name": "ETag",
-          "Value": "\"lGIypT8pfunH/g3eFmVXfMRjiXkwCP72Irdh7BX1IW0=\""
+          "Value": "\"yEDR5FoIU6azoaU0/KZyW3F8w6L59/fDl/TOmIStgcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:52 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9947,19 +9947,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XGOMcjuLZSoiKTAICYIkL06PGCfdfKluG6wcsoaQ5Bg=\""
+          "Value": "W/\"EudCfhjcuuk44BOcZt4F/M0diN5tvWt1caIpDr/dOgM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XGOMcjuLZSoiKTAICYIkL06PGCfdfKluG6wcsoaQ5Bg="
+          "Value": "sha256-EudCfhjcuuk44BOcZt4F/M0diN5tvWt1caIpDr/dOgM="
         }
       ]
     },
     {
       "Route": "_framework/BlazorChatApp.Client.wasm.gz",
-      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-4qfvet6hqt.gz",
+      "AssetFile": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\obj\\Debug\\net9.0\\compressed\\mpa9xt69fh-ep4t2yqyta.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9968,7 +9968,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8212"
+          "Value": "8313"
         },
         {
           "Name": "Content-Type",
@@ -9976,11 +9976,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lGIypT8pfunH/g3eFmVXfMRjiXkwCP72Irdh7BX1IW0=\""
+          "Value": "\"yEDR5FoIU6azoaU0/KZyW3F8w6L59/fDl/TOmIStgcI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:54:52 GMT"
+          "Value": "Sun, 13 Apr 2025 10:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9998,7 +9998,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lGIypT8pfunH/g3eFmVXfMRjiXkwCP72Irdh7BX1IW0="
+          "Value": "sha256-yEDR5FoIU6azoaU0/KZyW3F8w6L59/fDl/TOmIStgcI="
         }
       ]
     },

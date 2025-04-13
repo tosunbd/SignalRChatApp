@@ -1,0 +1,12 @@
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\bin\Debug\net9.0\ChatContracts.deps.json
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\bin\Debug\net9.0\ChatContracts.dll
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\bin\Debug\net9.0\ChatContracts.pdb
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\obj\Debug\net9.0\ChatContracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\obj\Debug\net9.0\ChatContracts.AssemblyInfoInputs.cache
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\obj\Debug\net9.0\ChatContracts.AssemblyInfo.cs
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\obj\Debug\net9.0\ChatContracts.csproj.CoreCompileInputs.cache
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\obj\Debug\net9.0\ChatContracts.sourcelink.json
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\obj\Debug\net9.0\ChatContracts.dll
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\obj\Debug\net9.0\refint\ChatContracts.dll
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\obj\Debug\net9.0\ChatContracts.pdb
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\ChatContracts\obj\Debug\net9.0\ref\ChatContracts.dll

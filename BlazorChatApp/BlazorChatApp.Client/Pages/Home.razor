@@ -8,15 +8,26 @@
 }
 else
 {
-	@if (systemMessages is not null && systemMessages.Count > 0)
-	{
-		<ul>
-			@foreach (var message in systemMessages)
+	<div class="row">
+		<div class="col-4">
+			<table style="width: 100%">				
+				<ConnectedUserComponent ConnectedUsers="this.connectedUsers" LogonUser="this.UserId" />				
+			</table>			
+		</div>
+		<div class="col-8">
+			@if (systemMessages is not null && systemMessages.Count > 0)
 			{
-				<li>@message</li>
+				<ul>
+					@foreach (var message in systemMessages)
+					{
+						<li>@message</li>
+					}
+				</ul>
 			}
-		</ul>
-	}
+		</div>
+	</div>
+
+	
 }
 
 @code {
@@ -24,6 +35,8 @@ else
 	private List<string> systemMessages = new List<string>();
 	private string userName = string.Empty;
 	private string userId = string.Empty;
+	
+	private List<ConnectedUser> connectedUsers = new List<ConnectedUser>();
 
 	private async Task OnUserInfoProvided(UserInfoCollectionComponent.UserInfo userInfo)
 	{
@@ -42,6 +55,7 @@ else
 			.Build();
 
 		hubConnection.On<string>("ReceiveSystemMessage", ReceiveSystemMessage);
+		hubConnection.On<List<ConnectedUser>>("UpdatedUserList", UpdatedUserList);
 
 		await hubConnection.StartAsync();
 	}
@@ -54,5 +68,14 @@ else
 			StateHasChanged();
 		}
 		Console.WriteLine(message);
+	}
+
+	private void UpdatedUserList(List<ConnectedUser> users)
+	{
+		if(users is not null && users.Count > 0)
+		{
+			connectedUsers = users;
+			StateHasChanged();
+		}
 	}
 }

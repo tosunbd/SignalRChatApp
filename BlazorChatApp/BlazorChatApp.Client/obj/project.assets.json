@@ -592,6 +592,16 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
+      },
+      "ChatContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ChatContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatContracts.dll": {}
+        }
       }
     },
     "net9.0/browser-wasm": {
@@ -1184,6 +1194,16 @@
         },
         "build": {
           "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "ChatContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ChatContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatContracts.dll": {}
         }
       }
     }
@@ -2114,10 +2134,16 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ChatContracts/1.0.0": {
+      "type": "project",
+      "path": "../../ChatContracts/ChatContracts.csproj",
+      "msbuildProject": "../../ChatContracts/ChatContracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "ChatContracts >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 9.0.4",
       "Microsoft.AspNetCore.SignalR.Client >= 9.0.4",
       "Microsoft.NET.ILLink.Tasks >= 9.0.4",
@@ -2156,7 +2182,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\ChatContracts\\ChatContracts.csproj": {
+              "projectPath": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\ChatContracts\\ChatContracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

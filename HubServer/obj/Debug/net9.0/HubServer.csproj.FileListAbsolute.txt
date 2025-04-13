@@ -31,3 +31,6 @@ F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\HubServer\obj\Debug
 F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\HubServer\obj\Debug\net9.0\HubServer.pdb
 F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\HubServer\obj\Debug\net9.0\HubServer.genruntimeconfig.cache
 F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\HubServer\obj\Debug\net9.0\ref\HubServer.dll
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\HubServer\bin\Debug\net9.0\ChatContracts.dll
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\HubServer\bin\Debug\net9.0\ChatContracts.pdb
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\HubServer\obj\Debug\net9.0\HubServer.sourcelink.json

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\blazorchatapp\\blazorchatapp.client\\components\\userinfocollectioncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|solutionrelative:blazorchatapp\\blazorchatapp.client\\components\\userinfocollectioncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\blazorchatapp\\blazorchatapp.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|solutionrelative:blazorchatapp\\blazorchatapp.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\blazorchatapp\\blazorchatapp.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|solutionrelative:blazorchatapp\\blazorchatapp.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\blazorchatapp\\blazorchatapp.client\\components\\connectedusercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|solutionrelative:blazorchatapp\\blazorchatapp.client\\components\\connectedusercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\blazorchatapp\\blazorchatapp.client\\components\\userinfocollectioncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|solutionrelative:blazorchatapp\\blazorchatapp.client\\components\\userinfocollectioncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70D49D30-8B8C-4D23-AE4E-11BD8645E95A}|HubServer\\HubServer.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\hubserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70D49D30-8B8C-4D23-AE4E-11BD8645E95A}|HubServer\\HubServer.csproj|solutionrelative:hubserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70D49D30-8B8C-4D23-AE4E-11BD8645E95A}|HubServer\\HubServer.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\hubserver\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70D49D30-8B8C-4D23-AE4E-11BD8645E95A}|HubServer\\HubServer.csproj|solutionrelative:hubserver\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\blazorchatapp\\blazorchatapp.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|solutionrelative:blazorchatapp\\blazorchatapp.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\blazorchatapp\\blazorchatapp.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70CF2168-0D03-4376-8C9A-9B59146E54BC}|BlazorChatApp\\BlazorChatApp.Client\\BlazorChatApp.Client.csproj|solutionrelative:blazorchatapp\\blazorchatapp.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{70D49D30-8B8C-4D23-AE4E-11BD8645E95A}|HubServer\\HubServer.csproj|f:\\work place\\dotnet\\tutorials\\signalrchatapp\\signalrchatapp\\hubserver\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D49D30-8B8C-4D23-AE4E-11BD8645E95A}|HubServer\\HubServer.csproj|solutionrelative:hubserver\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,41 +50,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "ConnectedUserComponent.razor",
+              "DocumentMoniker": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\Components\\ConnectedUserComponent.razor",
+              "RelativeDocumentMoniker": "BlazorChatApp\\BlazorChatApp.Client\\Components\\ConnectedUserComponent.razor",
+              "ToolTip": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\Components\\ConnectedUserComponent.razor",
+              "RelativeToolTip": "BlazorChatApp\\BlazorChatApp.Client\\Components\\ConnectedUserComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T10:37:35.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Imports.razor",
               "DocumentMoniker": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\_Imports.razor",
               "RelativeDocumentMoniker": "BlazorChatApp\\BlazorChatApp.Client\\_Imports.razor",
               "ToolTip": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\_Imports.razor",
               "RelativeToolTip": "BlazorChatApp\\BlazorChatApp.Client\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T09:26:28.832Z",
+              "WhenOpened": "2025-04-13T10:28:37.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserInfoCollectionComponent.razor",
               "DocumentMoniker": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\Components\\UserInfoCollectionComponent.razor",
               "RelativeDocumentMoniker": "BlazorChatApp\\BlazorChatApp.Client\\Components\\UserInfoCollectionComponent.razor",
               "ToolTip": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\Components\\UserInfoCollectionComponent.razor",
               "RelativeToolTip": "BlazorChatApp\\BlazorChatApp.Client\\Components\\UserInfoCollectionComponent.razor",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvxUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-13T09:04:04.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "BlazorChatApp\\BlazorChatApp.Client\\Layout\\MainLayout.razor",
-              "ToolTip": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "BlazorChatApp\\BlazorChatApp.Client\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T08:58:11.49Z",
               "EditorCaption": ""
             },
             {
@@ -102,26 +102,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazorChatApp\\BlazorChatApp.Client\\Pages\\Home.razor",
               "ToolTip": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\BlazorChatApp\\BlazorChatApp.Client\\Pages\\Home.razor",
               "RelativeToolTip": "BlazorChatApp\\BlazorChatApp.Client\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAWwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-13T05:49:29.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\HubServer\\ChatHub.cs",
               "RelativeDocumentMoniker": "HubServer\\ChatHub.cs",
               "ToolTip": "F:\\Work Place\\dotnet\\Tutorials\\SignalRChatApp\\SignalRChatApp\\HubServer\\ChatHub.cs",
               "RelativeToolTip": "HubServer\\ChatHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T05:34:58.664Z",
               "EditorCaption": ""

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "HubServer/1.0.0": {
         "dependencies": {
+          "ChatContracts": "1.0.0",
           "Microsoft.AspNetCore.SignalR": "1.2.0"
         },
         "runtime": {
@@ -227,7 +228,15 @@
       },
       "System.Reflection.Emit/4.7.0": {},
       "System.Text.Encodings.Web/8.0.0": {},
-      "System.Threading.Channels/8.0.0": {}
+      "System.Threading.Channels/8.0.0": {},
+      "ChatContracts/1.0.0": {
+        "runtime": {
+          "ChatContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -494,6 +503,11 @@
       "sha512": "sha512-CMaFr7v+57RW7uZfZkPExsPB6ljwzhjACWW1gfU35Y56rk72B/Wu+sTqxVmGSk4SFUlPc3cjeKND0zktziyjBA==",
       "path": "system.threading.channels/8.0.0",
       "hashPath": "system.threading.channels.8.0.0.nupkg.sha512"
+    },
+    "ChatContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

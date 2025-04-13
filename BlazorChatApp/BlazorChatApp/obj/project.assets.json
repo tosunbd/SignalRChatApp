@@ -603,6 +603,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "ChatContracts": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "9.0.4",
           "Microsoft.AspNetCore.SignalR.Client": "9.0.4"
         },
@@ -611,6 +612,16 @@
         },
         "runtime": {
           "bin/placeholder/BlazorChatApp.Client.dll": {}
+        }
+      },
+      "ChatContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ChatContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatContracts.dll": {}
         }
       }
     }
@@ -1481,6 +1492,11 @@
       "type": "project",
       "path": "../BlazorChatApp.Client/BlazorChatApp.Client.csproj",
       "msbuildProject": "../BlazorChatApp.Client/BlazorChatApp.Client.csproj"
+    },
+    "ChatContracts/1.0.0": {
+      "type": "project",
+      "path": "../../ChatContracts/ChatContracts.csproj",
+      "msbuildProject": "../../ChatContracts/ChatContracts.csproj"
     }
   },
   "projectFileDependencyGroups": {

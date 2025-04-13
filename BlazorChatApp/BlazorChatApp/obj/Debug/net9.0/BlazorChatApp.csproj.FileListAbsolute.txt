@@ -123,3 +123,6 @@ F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\Blazo
 F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
 F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
 F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp\obj\Debug\net9.0\BlazorChatApp.sourcelink.json
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp\bin\Debug\net9.0\ChatContracts.dll
+F:\Work Place\dotnet\Tutorials\SignalRChatApp\SignalRChatApp\BlazorChatApp\BlazorChatApp\bin\Debug\net9.0\ChatContracts.pdb
