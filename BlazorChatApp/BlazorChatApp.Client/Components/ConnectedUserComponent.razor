@@ -4,12 +4,21 @@
 	{
 		@if (user.UserId != this.LogonUserId)
 		{
+			var unreadMessages = user.Messages.Count(
+				m => m.Unread == false && 
+				m.FromUserId != this.LogonUserId);
+
 			<tr style="cursor: pointer; height: 30px"
 			@key="user.ConnectionId" 
 			@onclick="async () => await SelectUser(user.ConnectionId)">
 				<td>@user.UserName</td>
 				<td>
-
+					@if (unreadMessages > 0)
+					{
+						<div class="unread-indicator">
+							@unreadMessages
+						</div>
+					}
 				</td>
 			</tr>
 		}
