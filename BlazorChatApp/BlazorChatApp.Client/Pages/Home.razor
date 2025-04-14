@@ -11,10 +11,18 @@ else
 	<div class="row">
 		<div class="col-4">
 			<table style="width: 100%">				
-				<ConnectedUserComponent ConnectedUsers="this.connectedUsers" LogonUser="this.UserId" />				
+				<ConnectedUserComponent 
+				ConnectedUsers="this.connectedUsers" 
+				LogonUserId="@this.userId" 
+				OnUserSelected="OnUserSelected" />				
 			</table>			
 		</div>
 		<div class="col-8">
+			<ChatComponent 
+			FromUserId="@this.userId" 
+			ToUser="targetUser"
+			ConnectedUsers="this.connectedUsers"
+			hubConnection="this.hubConnection" />
 			@if (systemMessages is not null && systemMessages.Count > 0)
 			{
 				<ul>
@@ -27,7 +35,7 @@ else
 		</div>
 	</div>
 
-	
+
 }
 
 @code {
@@ -35,7 +43,11 @@ else
 	private List<string> systemMessages = new List<string>();
 	private string userName = string.Empty;
 	private string userId = string.Empty;
-	
+
+	private HubConnection? hubConnection;
+
+	private ConnectedUser? targetUser;
+
 	private List<ConnectedUser> connectedUsers = new List<ConnectedUser>();
 
 	private async Task OnUserInfoProvided(UserInfoCollectionComponent.UserInfo userInfo)
@@ -46,16 +58,22 @@ else
 		await ConnectToServer(userId, userName);
 	}
 
+	private async Task OnUserSelected(ConnectedUser toUser)
+	{
+		this.targetUser = toUser;
+	}
+
 
 	private async Task ConnectToServer(string userId, string userName)
 	{
-		var hubConnection = new HubConnectionBuilder()
+		hubConnection = new HubConnectionBuilder()
 			// .WithUrl(Navigation.ToAbsoluteUri("/chathub"))
 			.WithUrl($"https://localhost:7289/chathub?userId={userId}&userName={userName}")
 			.Build();
 
 		hubConnection.On<string>("ReceiveSystemMessage", ReceiveSystemMessage);
 		hubConnection.On<List<ConnectedUser>>("UpdatedUserList", UpdatedUserList);
+		hubConnection.On<string, string, string>("ReceiveMessage", ReceiveMessage);
 
 		await hubConnection.StartAsync();
 	}
@@ -78,4 +96,25 @@ else
 			StateHasChanged();
 		}
 	}
+
+	private void ReceiveMessage(string fromUserId, string fromConnectionId, string message)
+	{		
+		if (!string.IsNullOrWhiteSpace(fromConnectionId))
+		{
+			var fromUser = connectedUsers.FirstOrDefault(u => u.ConnectionId == fromConnectionId);
+
+			if (fromUser is not null)
+			{
+				fromUser.Messages.Add(new ChatMessage
+				{
+					FromUserId = fromUserId,
+					ToUserId = this.userId,
+					Message = message
+				});
+
+				StateHasChanged();
+			}
+		}		
+	}
+
 }

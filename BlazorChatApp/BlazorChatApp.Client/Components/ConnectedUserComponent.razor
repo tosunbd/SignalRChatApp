@@ -4,9 +4,13 @@
 	{
 		@if (user.UserId != this.LogonUserId)
 		{
-			<tr @key="user.ConnectionId" style="cursor: pointer; height: 30px">
+			<tr style="cursor: pointer; height: 30px"
+			@key="user.ConnectionId" 
+			@onclick="async () => await SelectUser(user.ConnectionId)">
 				<td>@user.UserName</td>
-				<td></td>
+				<td>
+
+				</td>
 			</tr>
 		}
 	}
@@ -19,5 +23,19 @@
 
 	[Parameter]
 	public string? LogonUserId { get; set; }
+
+	[Parameter]
+	public EventCallback<ConnectedUser> OnUserSelected { get; set; }
+
+
+	private async Task SelectUser(string? connectionId)
+	{
+		var targetUser = ConnectedUsers?.FirstOrDefault(u => u.ConnectionId == connectionId);
+
+		if(targetUser is not null)
+		{
+			await OnUserSelected.InvokeAsync(targetUser);
+		}
+	}
 
 }
